@@ -2,8 +2,8 @@
 
 ### I'm Matheus Wallace
 
-* I live in Brazil, Maceió - AL :brazil:
-* I'm currently learning :notebook::
+* I live in Brazil, Maceió - AL
+* I'm currently learning:
    * NodeJS in [Rocketseat's](https://passport.rocketseat.com.br/ig-nodejs-01/wallacewts) first Ignite class
    * Angular in practice at NTM - SENAI
    * Spoken English along teacher [Felipe Espinosa](https://www.instagram.com/_spokenglish/)
