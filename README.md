@@ -59,7 +59,7 @@
 <a href="https://www.instagram.com/wallacewts/">
   <img 
     src="https://cdn.iconscout.com/icon/free/png-64/instagram-2752153-2284970.png" 
-    width="40"
+    width="30"
     height="30"
   />
 </a>
