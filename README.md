@@ -58,7 +58,7 @@
 </a>
 <a href="https://www.instagram.com/wallacewts/">
   <img 
-    src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1615422277~hmac=3830410323c12895716ed71378af74d3" 
+    src="https://cdn.iconscout.com/icon/free/png-64/instagram-2752153-2284970.png" 
     width="40"
     height="30"
   />
