@@ -4,7 +4,7 @@
 
 * I live in Brazil, Maceió - AL
 * I'm currently learning Spoken English along teacher [Felipe Espinosa](https://www.instagram.com/_spokenglish/)
-* Working at SENAI in NT - AL
+* Working at Exedio Brazil - No office location
 
 ### My Skills
 <img 
