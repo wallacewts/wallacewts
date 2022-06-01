@@ -42,6 +42,11 @@
   width="40"
   height="30"
 />
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
+  width="40"
+  height="30"
+/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacewts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
