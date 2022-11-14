@@ -3,8 +3,8 @@
 ### I'm Matheus Wallace
 
 * I live in Brazil, Maceió - AL
-* I'm currently learning Spoken English along teacher [Felipe Espinosa](https://www.instagram.com/_spokenglish/)
-* Working at Exedio Brazil - No office location
+* I'm currently learning Spoken English along teacher [Felipe Espinosa](https://www.instagram.com/professorfonemas/)
+* Working at iBlue Consulting - No office location
 
 ### My Skills
 <img 
