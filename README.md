@@ -4,7 +4,7 @@
 
 * I live in Brazil, Maceió - AL
 * I'm currently learning Spoken English along teacher [Felipe Espinosa](https://www.instagram.com/professorfonemas/)
-* Working at iBlue Consulting - No office location
+* Working at [Vr Software](https://github.com/vrsoftbr) - No office location
 
 ### My Skills
 <img 
